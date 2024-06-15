@@ -1,4 +1,3 @@
-[![MasterHead](https://w0.peakpx.com/wallpaper/1021/487/HD-wallpaper-technology-code-programming-programmer.jpg)](https://fentanyl.cc)
 <h1 align="center">Hi 👋, I'm LEVKAN</h1>
 <h3 align="center">Exploit Developer / Vulnerability Researcher /Game Modder / Reverse Engineer / Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
