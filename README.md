@@ -1,4 +1,4 @@
-[![MasterHead]([https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=6c09b952s73zt6zquw2jq8pn57qr1llltgytn7y61db47jgx&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://backiee.com/static/wallpapers/560x315/367998.jpg))](https://fentanyl.cc)
+[![MasterHead](https://backiee.com/static/wallpapers/560x315/367998.jpg))](https://fentanyl.cc)
 <h1 align="center">Hi 👋, I'm LEVKAN</h1>
 <h3 align="center">Exploit Developer / Vulnerability Researcher /Game Modder / Reverse Engineer / Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
