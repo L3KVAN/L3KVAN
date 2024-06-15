@@ -1,10 +1,7 @@
 [![MasterHead](https://backiee.com/static/wallpapers/560x315/367998.jpg))](https://fentanyl.cc)
 <h1 align="center">Hi 👋, I'm LEVKAN</h1>
 <h3 align="center">Exploit Developer / Vulnerability Researcher /Game Modder / Reverse Engineer / Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l3kvan&label=Profile%20views&color=0e75b6&style=flat" alt="l3kvan" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=l3kvan" alt="l3kvan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://fentanyl.cc](https://fentanyl.cc)
