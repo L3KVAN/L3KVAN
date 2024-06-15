@@ -1,4 +1,3 @@
-<center>[![MasterHead](https://backiee.com/static/wallpapers/560x315/367998.jpg))](https://fentanyl.cc)</center>
 <h1 align="center">Hi 👋, I'm LEVKAN</h1>
 <h3 align="center">Exploit Developer / Vulnerability Researcher /Game Modder / Reverse Engineer / Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l3kvan&label=Profile%20views&color=0e75b6&style=flat" alt="l3kvan" /> </p>
